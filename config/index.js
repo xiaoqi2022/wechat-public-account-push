@@ -116,11 +116,7 @@ export const config = {
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
       festivals: [{"type": "*生日", "name": "马小柒", "year": "2001", "date": "11-10", isShowAge: true}],
-      customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}
-                           {"keyword": "lover_prattle", contents: ["因为太喜欢你，所以看谁都像是情敌。",
-                                                                   "申请成为你爱里的永久居民。",
-                                                                   "你很傻，你很笨，可我还是很羡慕你，因为你有我",
-                                                                   "遇见你，就好像捡到了100斤的运气",]}],
+      customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}],
     {
       name: "老婆3",
       id: "",
