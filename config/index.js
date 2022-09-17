@@ -34,11 +34,11 @@ export const config = {
     // 土味情话(彩虹屁)
     earthyLoveWords: true,
     // 朋友圈文案
-    momentCopyrighting: true,
+    momentCopyrighting: false,
     // 毒鸡汤
-    poisonChickenSoup: true,
+    poisonChickenSoup: false,
     // 古诗古文
-    poetry: true,
+    poetry: false,
 
     /** 星座运势 */
     horoscope: true,
@@ -115,9 +115,10 @@ export const config = {
       horoscopeDate: '12-24',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "*生日", "name": "马小柒", "year": "2001", "date": "11-10", isShowAge: true}],
-      customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}],
-    }
+      festivals: [{"type": "*生日", "name": "马小柒", "year": "2001", "date": "11-10", isShowAge: true},
+                  {"type": "生日", "name": "马小柒", "year": "2001", "date": "12-24", isShowAge: true}],
+      customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}]
+    },
     {
       name: "老婆3",
       id: "",
