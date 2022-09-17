@@ -28,7 +28,7 @@ export const config = {
 
     /** 每日N句 */
     // 金山每日一句
-    CIBA: true,
+    CIBA: false,
     // 每日一言
     oneTalk: true,
     // 土味情话(彩虹屁)
@@ -36,7 +36,7 @@ export const config = {
     // 朋友圈文案
     momentCopyrighting: true,
     // 毒鸡汤
-    poisonChickenSoup: true,
+    poisonChickenSoup: false,
     // 古诗古文
     poetry: false,
 
@@ -96,28 +96,28 @@ export const config = {
     },
     {
       name: "黄小萍",
-      id: "o2x_L6Wb6iC3RudSesIJeJfs74nk",
+      id: "BM9H_cNmGTi05gbBB_tCyisqYjgIpJ_LxPQO2G5nrS0",
       useTemplateId: "jwjogxL1rkEJ-VXCozx7b-Ce9Ms2p17Ask07adDxHwg",
       province: "福建",
       city: "厦门",
       horoscopeDate: '12-28',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "*生日", "name": "小仙女", "year": "2001", "date": "11-14", isShowAge: true},
-                  {"type": "*生日", "name": "马小柒", "year": "2001", "date": "11-10", isShowAge: true}],
+      festivals: [{"type": "*生日", "name": "小仙女", "year": "2001", "date": "12-28", isShowAge: true},
+                  {"type": "*生日", "name": "马小柒", "year": "2001", "date": "12-24", isShowAge: true}],
       customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}]
     },
     {
       name: "马小柒",
-      id: "o2x_L6eEcIcIZtqVHjmJrXlOFCSU",
+      id: "BM9H_cNmGTi05gbBB_tCyisqYjgIpJ_LxPQO2G5nrS0",
       useTemplateId: "jwjogxL1rkEJ-VXCozx7b-Ce9Ms2p17Ask07adDxHwg",
       province: "甘肃",
       city: "天水",
       horoscopeDate: '12-24',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "*生日", "name": "马小柒", "year": "2001", "date": "11-10", isShowAge: true},
-                  {"type": "*生日", "name": "黄小萍", "year": "2001", "date": "11-14", isShowAge: true}],
+      festivals: [{"type": "生日", "name": "马小柒", "year": "2001", "date": "11-10", isShowAge: true},
+                  {"type": "生日", "name": "黄小萍", "year": "2001", "date": "11-14", isShowAge: true}],
       customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}]
     },
     {
