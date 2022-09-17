@@ -117,6 +117,7 @@ export const config = {
       openUrl: "https://wangxinleo.cn",
       festivals: [{"type": "*生日", "name": "马小柒", "year": "2001", "date": "11-10", isShowAge: true}],
       customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}],
+    }
     {
       name: "老婆3",
       id: "",
