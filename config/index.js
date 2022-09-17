@@ -104,7 +104,7 @@ export const config = {
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
       festivals: [{"type": "*生日", "name": "黄小萍", "year": "2001", "date": "11-14", isShowAge: true},
-                  {"type": "节日", "name": "相识纪念日", "year": "2021", "date": "01-13"],
+                  {"type": "节日", "name": "相识纪念日", "year": "2021", "date": "01-13"}],
       customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}]
     },
     {
