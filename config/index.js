@@ -6,12 +6,12 @@ export const config = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: "",
+  APP_ID: "wxd30b1f9d747209dc",
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "",
+  APP_SECRET: "f25c1cb981ab51e643d02ae941ad9a88",
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -118,7 +118,7 @@ export const config = {
       openUrl: "https://wangxinleo.cn",
       festivals: [{"type": "*生日", "name": "马小柒", "year": "2001", "date": "11-10", isShowAge: true},
                   {"type": "节日", "name": "相识纪念日", "year": "2021", "date": "01-13"],
-      customizedDateList: []
+      customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}]
     },
     {
       name: "老婆3",
