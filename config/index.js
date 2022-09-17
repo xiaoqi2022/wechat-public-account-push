@@ -34,9 +34,9 @@ export const config = {
     // 土味情话(彩虹屁)
     earthyLoveWords: true,
     // 朋友圈文案
-    momentCopyrighting: false,
+    momentCopyrighting: true,
     // 毒鸡汤
-    poisonChickenSoup: false,
+    poisonChickenSoup: true,
     // 古诗古文
     poetry: false,
 
@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o2x_L6Wb6iC3RudSesIJeJfs74nk",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "TPyBpMH2mPNTuo56Kscm85Zv1FGpUDmBIjWI08CbvjE",
+      useTemplateId: "1hB1z7Vw0ZWX5bieoPr65gssBsPjiuv77C3P4D4qqHo",
       // 所在省份
       province: "福建",
       // 所在城市
@@ -97,26 +97,27 @@ export const config = {
     {
       name: "黄小萍",
       id: "o2x_L6Wb6iC3RudSesIJeJfs74nk",
-      useTemplateId: "TPyBpMH2mPNTuo56Kscm85Zv1FGpUDmBIjWI08CbvjE",
+      useTemplateId: "1hB1z7Vw0ZWX5bieoPr65gssBsPjiuv77C3P4D4qqHo",
       province: "福建",
       city: "厦门",
       horoscopeDate: '12-28',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "*生日", "name": "小仙女", "year": "2001", "date": "11-14", isShowAge: true}],
+      festivals: [{"type": "*生日", "name": "小仙女", "year": "2001", "date": "12-28", isShowAge: true},
+                  {"type": "*生日", "name": "马小柒", "year": "2001", "date": "12-24", isShowAge: true}],
       customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}]
     },
     {
       name: "马小柒",
       id: "o2x_L6eEcIcIZtqVHjmJrXlOFCSU",
-      useTemplateId: "TPyBpMH2mPNTuo56Kscm85Zv1FGpUDmBIjWI08CbvjE",
+      useTemplateId: "1hB1z7Vw0ZWX5bieoPr65gssBsPjiuv77C3P4D4qqHo",
       province: "甘肃",
       city: "天水",
       horoscopeDate: '12-24',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "*生日", "name": "马小柒", "year": "2001", "date": "11-10", isShowAge: true},
-                  {"type": "生日", "name": "马小柒", "year": "2001", "date": "12-24", isShowAge: true}],
+      festivals: [{"type": "*生日", "name": "马小柒", "year": "2001", "date": "12-24", isShowAge: true},
+                  {"type": "*生日", "name": "黄小萍", "year": "2001", "date": "12-28", isShowAge: true}],
       customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}]
     },
     {
