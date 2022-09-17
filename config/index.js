@@ -97,27 +97,27 @@ export const config = {
     {
       name: "黄小萍",
       id: "o2x_L6Wb6iC3RudSesIJeJfs74nk",
-      useTemplateId: "1hB1z7Vw0ZWX5bieoPr65gssBsPjiuv77C3P4D4qqHo",
+      useTemplateId: "jwjogxL1rkEJ-VXCozx7b-Ce9Ms2p17Ask07adDxHwg",
       province: "福建",
       city: "厦门",
       horoscopeDate: '12-28',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "*生日", "name": "小仙女", "year": "2001", "date": "12-28", isShowAge: true},
-                  {"type": "*生日", "name": "马小柒", "year": "2001", "date": "12-24", isShowAge: true}],
+      festivals: [{"type": "*生日", "name": "小仙女", "year": "2001", "date": "11-14", isShowAge: true},
+                  {"type": "*生日", "name": "马小柒", "year": "2001", "date": "11-10", isShowAge: true}],
       customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}]
     },
     {
       name: "马小柒",
       id: "o2x_L6eEcIcIZtqVHjmJrXlOFCSU",
-      useTemplateId: "1hB1z7Vw0ZWX5bieoPr65gssBsPjiuv77C3P4D4qqHo",
+      useTemplateId: "jwjogxL1rkEJ-VXCozx7b-Ce9Ms2p17Ask07adDxHwg",
       province: "甘肃",
       city: "天水",
       horoscopeDate: '12-24',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "*生日", "name": "马小柒", "year": "2001", "date": "12-24", isShowAge: true},
-                  {"type": "*生日", "name": "黄小萍", "year": "2001", "date": "12-28", isShowAge: true}],
+      festivals: [{"type": "*生日", "name": "马小柒", "year": "2001", "date": "11-10", isShowAge: true},
+                  {"type": "*生日", "name": "黄小萍", "year": "2001", "date": "11-14", isShowAge: true}],
       customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}]
     },
     {
