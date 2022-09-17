@@ -103,8 +103,7 @@ export const config = {
       horoscopeDate: '12-28',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "*生日", "name": "黄小萍", "year": "2001", "date": "11-14", isShowAge: true},
-                  {"type": "节日", "name": "相识纪念日", "year": "2021", "date": "01-13"}],
+      festivals: [{"type": "*生日", "name": "黄小萍", "year": "2001", "date": "11-14", isShowAge: true}],
       customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}]
     },
     {
@@ -116,8 +115,7 @@ export const config = {
       horoscopeDate: '12-24',
       horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [{"type": "*生日", "name": "马小柒", "year": "2001", "date": "11-10", isShowAge: true},
-                  {"type": "节日", "name": "相识纪念日", "year": "2021", "date": "01-13"}],
+      festivals: [{"type": "*生日", "name": "马小柒", "year": "2001", "date": "11-10", isShowAge: true}],
       customizedDateList: [{"keyword": "love_day", date: "2021-01-13"}]
     },
     {
@@ -201,7 +199,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 1,
+  FESTIVALS_LIMIT: 2,
 
   /** 日期相关 */
 
