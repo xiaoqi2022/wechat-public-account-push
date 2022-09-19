@@ -97,7 +97,7 @@ export const config = {
     {
       name: "黄小萍",
       id: "o2x_L6Wb6iC3RudSesIJeJfs74nk",
-      useTemplateId: "b8hFj4Gmt78bv-aNJtVmpd8hT7LW7u_sJaVEDquaMRM",
+      useTemplateId: "2twZgC6V3PyR9JUPkZPoA5-wx3bxwXmuxQLAarftZmE",
       province: "福建",
       city: "厦门",
       horoscopeDate: '12-28',
@@ -110,7 +110,7 @@ export const config = {
     {
       name: "马小柒",
       id: "o2x_L6eEcIcIZtqVHjmJrXlOFCSU",
-      useTemplateId: "b8hFj4Gmt78bv-aNJtVmpd8hT7LW7u_sJaVEDquaMRM",
+      useTemplateId: "2twZgC6V3PyR9JUPkZPoA5-wx3bxwXmuxQLAarftZmE",
       province: "甘肃",
       city: "天水",
       horoscopeDate: '12-24',
